@@ -1,0 +1,12 @@
+.page{
+    max-width: 960px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
